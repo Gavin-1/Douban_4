@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "11A1F146D1C99076F4D8F70D4DFF3778371A1BAD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "11A1F146D1C99076F4D8F70D4DFF3778371A1BAD" : 0,
+    "5427322AF47EE1E4C56E64A7FF86913708A38BFB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "146D7599-5DA0-446B-A8D0-2AD59BB5D32C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "11A1F146D1C99076F4D8F70D4DFF3778371A1BAD" : "Douban4\/",
+    "5427322AF47EE1E4C56E64A7FF86913708A38BFB" : "..\/Douban_fengxingzhe"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Douban_4",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Douban_4\/Douban_4.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Gavin-1\/Douban_4.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "11A1F146D1C99076F4D8F70D4DFF3778371A1BAD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Gavin-1\/Douban_fengxingzhe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5427322AF47EE1E4C56E64A7FF86913708A38BFB"
+    }
+  ]
+}
